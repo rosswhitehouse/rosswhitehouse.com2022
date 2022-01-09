@@ -13,6 +13,7 @@ h2 {
 
 .hero h1 {
 	font-size: 6rem;
+	-webkit-text-stroke: 1px black; /* width and color */
 }
 
 .hero p {
