@@ -1,6 +1,6 @@
 :root {
     --background-fallback: #8A2387;
-    --gradient: linear-gradient(to bottom right, #8A2387, #F27121);
+    --gradient: linear-gradient(to bottom right, #8A2387, #f1650e);
     --heading-font: 'Poppins', serif;
     --body-font: 'WorkSans', serif;
 }
