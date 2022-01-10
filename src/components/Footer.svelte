@@ -14,7 +14,7 @@
     footer {
         background: var(--background-fallback);
         background: var(--gradient);
-        padding: 10rem 0;
+        padding: 10rem 1rem;
         color: white;
         font-size: 2.4rem;
     }
