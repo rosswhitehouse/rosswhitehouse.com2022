@@ -126,6 +126,10 @@
             &:nth-of-type(even) .timeline-item:after {
                 left: -2rem;
             }
+
+            @media (max-width: 650px) {
+                grid-row: auto !important;
+            }
         }
         
         .timeline-item {
@@ -151,8 +155,6 @@
             }
 
             @media (max-width: 650px) {
-                grid-row: auto !important;
-    
                 &:after {
                     display: none;
                 }
