@@ -1,13 +1,6 @@
 <script>
     let workRows = [
         {
-            title: 'Hotjar Internal Tools',
-            description: 'Tools for the Support team to use debugging the Hotjar tools on users\' websites, using a Python/Flask REST API.',
-            slug: 'hotjar-0',
-            techs: ['react', 'css', 'js', 'ts', 'python', 'cicd'],
-            url: null
-        },
-        {
             title: 'Hotjar Knowledge Base',
             description: 'The first point of contact for Hotjar users looking for help.',
             slug: 'hotjar-1',
@@ -20,6 +13,13 @@
             slug: 'hotjar-2',
             techs: ['gatsby', 'css', 'graphql'],
             url: 'https://learning.hotjar.com'
+        },
+        {
+            title: 'Hotjar Internal Tools',
+            description: 'Tools for the Support team to use debugging the Hotjar tools on users\' websites, using a Python/Flask REST API.',
+            slug: 'hotjar-0',
+            techs: ['react', 'css', 'js', 'ts', 'python', 'cicd'],
+            url: null
         },
         {
             description: 'Coding Bootcamp for Black Women in the West Midlands to get jobs in tech.',

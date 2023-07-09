@@ -5,6 +5,11 @@ import Techs from '../components/Techs.svelte';
 import Work from '../components/Work.svelte';
 import Timeline from '../components/Timeline.svelte';
 import Footer from '../components/Footer.svelte';
+
+import '../styles/reset.css'
+import '../styles/fonts.css'
+import '../styles/global.css'
+import '../styles/home.css'
 ---
 <html lang="en">
 <head>
@@ -13,10 +18,6 @@ import Footer from '../components/Footer.svelte';
 	<title>Ross Whitehouse</title>
 
 	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
-	<link rel="stylesheet" href={Astro.resolve('../styles/reset.css')}>
-	<link rel="stylesheet" href={Astro.resolve('../styles/fonts.css')}>
-	<link rel="stylesheet" href={Astro.resolve('../styles/global.css')}>
-	<link rel="stylesheet" href={Astro.resolve('../styles/home.css')}>
 </head>
 <body>
 	<main>
@@ -25,9 +26,10 @@ import Footer from '../components/Footer.svelte';
 		<section class="hero">
 			<div class="section-inner">
 				<h1>Hi, I'm Ross Whitehouse</h1>
-				<p>I'm an internal tools specialist, mentor and life-long learner.</p>
+				<p>I work on Customer Education platforms and Internal Tools.</p>
+				<p>I'm a great communicator, a problem solver and a life-long learner.</p>
 				<p>I care about accessibility, inclusivity, diversity and culture.</p>
-				<p>I like <a href="https://ggapp.io/rossdw">video games</a>, movies, <a href="https://www.instagram.com/p/CYPuKgdo813/">books</a> and <a href="https://rosswhitehouse.notion.site/Podcasts-77d293f5d7554b9982fbedac6f39f1e7">podcasts</a>.</p>
+				<p>I have a real life too. Honest.</p>
 			</div>
 		</section>
 

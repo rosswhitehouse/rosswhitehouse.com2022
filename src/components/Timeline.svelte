@@ -1,6 +1,15 @@
 <script>
     let timelineItems = [
         {
+            title: 'Joined the Customer Education Team',
+            description: 'As Operations Manager, in charge of the help center and learning platforms.',
+            date: 'Nov 2022'
+        },
+        {
+            title: 'Promoted so Senior Software Engineer 🥳',
+            date: 'July 2022'
+        },
+        {
             title: 'Happy New Year! 🎉',
             date: 'Jan 2022'
         },
@@ -28,10 +37,6 @@
             title: 'Started at <a href="https://teamitg.com/">ITG Group</a>',
             description: 'Back then it was Connect Group Ltd. I worked on the <a href="https://www.landrover.co.uk/offers-and-finance/finance-calculator.html">Jaguar/Land Rover Finance Calculator</a>.',
             date: 'Nov 2018'
-        },
-        {
-            title: 'Married my partner and best friend 🤵‍♂️👰‍♀️',
-            date: 'Oct 2017'
         },
         {
             title: 'Started at <a href="https://www.intouchgames.co.uk/">InTouch Games</a>',

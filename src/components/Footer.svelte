@@ -4,7 +4,7 @@
             <a href="/">Back Home</a>
         </div>
         <div>
-            <a href="https://twitter.com/rosswhitehouse">Check Twitter</a>
+            <a href="https://www.instagram.com/rossdwhitehouse/">Check Instagram</a>
         </div>
         Peace ✌️
     </div>

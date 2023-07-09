@@ -2,10 +2,7 @@
     <div class="section-inner">
         <a class="title-link" href="/">Ross Whitehouse</a>
         <nav>
-            <!-- <a href="/">Home</a> -->
-            <!-- <a href="/blog">Blog</a>
-            <a href="/uses">Uses</a> -->
-            <a href="https://twitter.com/rosswhitehouse">Let's talk on Twitter!</a>
+            <a href="https://www.instagram.com/rossdwhitehouse/">Find me on Instagram</a>
         </nav>
     </div>
 </header>
