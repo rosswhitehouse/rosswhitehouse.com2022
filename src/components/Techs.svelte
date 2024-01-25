@@ -1,8 +1,8 @@
 <script>
     let techs = {
-        0: ['HTML', 'CSS', 'JavaScript', 'REST'],
-        1: ['React', 'SCSS', 'Gatsby', 'GraphQL', 'Vue', 'Figma', 'Python', 'Zendesk', 'CI/CD', 'Testing Library', 'Cypress', 'Netlify'],
-        2: ['Svelte', 'Astro', 'Node.js', 'TypeScript']
+        0: ['HTML', 'CSS', 'JavaScript', 'Node/Express'],
+        1: ['React', 'SCSS', 'Gatsby', 'GraphQL', 'Vue', 'Figma', 'Python', 'Zendesk', 'CI/CD', 'Testing Library', 'Serverless', 'Netlify'],
+        2: ['Svelte', 'Astro', 'Heroku', 'TypeScript']
     }
 </script>
 
@@ -20,14 +20,14 @@
             {/each}
         </div>
 
-        <h3>I can also do these:</h3>
+        <h3>I've worked with these:</h3>
         <div class="tech-wrapper">
             {#each techs[1] as tech}
                 <div class="tech"><div class="inner">{tech}</div></div>
             {/each}
         </div>
 
-        <h3>Currently tinkering with these:</h3>
+        <h3>Dabbled with these:</h3>
         <div class="tech-wrapper">
             {#each techs[2] as tech}
                 <div class="tech"><div class="inner">{tech}</div></div>

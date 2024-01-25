@@ -6,7 +6,7 @@
         <div>
             <a href="https://www.instagram.com/rossdwhitehouse/">Check Instagram</a>
         </div>
-        Peace ✌️
+        ✌️
     </div>
 </footer>
 

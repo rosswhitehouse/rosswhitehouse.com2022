@@ -2,16 +2,17 @@
     let timelineItems = [
         {
             title: 'Joined the Customer Education Team',
-            description: 'As Operations Manager, in charge of the help center and learning platforms.',
+            description: 'As Operations Manager, in charge of the <a href="https://help.hotjar.com">Help Center</a> and <a href="https://learning.hotjar.com">Learning Platform</a>, as well as some other cool tools I\'d love to chat about!',
             date: 'Nov 2022'
         },
         {
-            title: 'Promoted so Senior Software Engineer 🥳',
+            title: 'Promoted to Senior Software Engineer 🥳',
             date: 'July 2022'
         },
         {
-            title: 'Happy New Year! 🎉',
-            date: 'Jan 2022'
+            title: 'Gave a talk on Allyship',
+            description: 'I talked at a Hotjar all-hands about Inclusion and being a good Ally.',
+            date: 'June 2022'
         },
         {
             title: 'Reenrolled as a <a href="https://blackcodher.com/">BlackCodher</a> Mentor',
@@ -30,31 +31,32 @@
         },
         {
             title: 'Started at <a href="https://www.hotjar.com/">Hotjar</a>',
-            description: 'I\'ve worked in 4 teams at Hotjar: Internal tools, The Knowledge Base team, Activation and Business Enablement (where I\'m back doing internal tools - and other stuff).',
+            description: 'I\'ve worked all over Hotjar: Support Internal Tools, the Self Service team (mainly on the <a href="https://help.hotjar.com/hc/en-us">Knowledge Base</a>), <a href="https://insights.hotjar.com/register">Activation</a>, Business Enablement and Customer Education (<a href="https://learning.hotjar.com">LMS</a> and assorted learning brick-a-brack).',
             date: 'Nov 2018'
         },
         {
-            title: 'Started at <a href="https://teamitg.com/">ITG Group</a>',
+            title: 'Worked at <a href="https://teamitg.com/">ITG Group</a>',
             description: 'Back then it was Connect Group Ltd. I worked on the <a href="https://www.landrover.co.uk/offers-and-finance/finance-calculator.html">Jaguar/Land Rover Finance Calculator</a>.',
             date: 'Nov 2018'
         },
         {
-            title: 'Started at <a href="https://www.intouchgames.co.uk/">InTouch Games</a>',
+            title: 'Worked at <a href="https://www.intouchgames.co.uk/">InTouch Games</a>',
+            description: 'Contributed to some internal tools. Then bounced around at some temporary jobs.',
             date: 'July 2017'
         },
         {
-            title: 'Started at <a href="https://thebusinessdesk.com">TheBusinessDesk.com</a>',
+            title: 'Worked at <a href="https://thebusinessdesk.com">TheBusinessDesk.com</a>',
             description: 'I designed and built a brand new site for <a href="https://www.thebusinessdesk.com/">TheBusinessDesk</a>. It was a big responsibility, but I\'m so proud of it (and the fact they\'re still using it!)',
             date: 'Oct 2016'
         },
         {
             title: 'Graduated from University 👨‍🎓',
-            description: 'BA Media and Communication at <a href="https://www.bcu.ac.uk/">BCU</a>. Nearly didn\'t get through it. Never been asked about it since. Student debt out my ears.',
+            description: 'BA Media and Communication at <a href="https://www.bcu.ac.uk/">BCU</a>. Nearly didn\'t get through it. Never been asked about it since. Student debt out of my ears.',
             date: 'Sept 2015'
         },
         {
             title: 'First Job in Tech 🥳',
-            description: 'I cut my teeth at <a href="https://www.barques.co.uk/">Barques</a> (a French type of ship, since you asked), a digital agency where I worked on sites for a bunch of Birmingham-based companies, like the <a href="https://www.birminghambotanicalgardens.org.uk/">Botanical Gardens</a>. I started the Monday after my final submission deadline.',
+            description: 'I cut my teeth in Birmingham at <a href="https://www.barques.co.uk/">Barques</a>, a digital agency where I worked on sites for a bunch of local business, like the <a href="https://www.birminghambotanicalgardens.org.uk/">Botanical Gardens</a>. I started a few months before graduation.',
             date: 'July 2015'
         },
         {
@@ -64,7 +66,7 @@
         },
         {
             title: 'General Messing About',
-            date: 'Aug 94 - Sept 12'
+            date: 'Aug \'94 - Sept \'12'
         },
         {
             title: 'Born 🍼',
