@@ -32,12 +32,12 @@
         {
             title: 'Started at <a href="https://www.hotjar.com/">Hotjar</a>',
             description: 'I\'ve worked all over Hotjar: Support Internal Tools, the Self Service team (mainly on the <a href="https://help.hotjar.com/hc/en-us">Knowledge Base</a>), <a href="https://insights.hotjar.com/register">Activation</a>, Business Enablement and Customer Education (<a href="https://learning.hotjar.com">LMS</a> and assorted learning brick-a-brack).',
-            date: 'Nov 2018'
+            date: 'Oct 2018'
         },
         {
             title: 'Worked at <a href="https://teamitg.com/">ITG Group</a>',
             description: 'Back then it was Connect Group Ltd. I worked on the <a href="https://www.landrover.co.uk/offers-and-finance/finance-calculator.html">Jaguar/Land Rover Finance Calculator</a>.',
-            date: 'Nov 2018'
+            date: 'Nov 2017'
         },
         {
             title: 'Worked at <a href="https://www.intouchgames.co.uk/">InTouch Games</a>',
