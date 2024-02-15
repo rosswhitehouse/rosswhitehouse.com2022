@@ -2,6 +2,7 @@
     <div class="section-inner">
         <a class="title-link" href="/">Ross Whitehouse</a>
         <nav>
+            <a href="/assets/Ross-Whitehouse-CV.pdf">CV</a>
             <a href="https://www.instagram.com/rossdwhitehouse/">Instagram</a>
         </nav>
     </div>

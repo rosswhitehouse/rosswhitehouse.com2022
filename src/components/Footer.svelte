@@ -4,6 +4,9 @@
             <a href="/">Back Home</a>
         </div>
         <div>
+            <a href="/assets/Ross-Whitehouse-CV.pdf">Read my CV</a>
+        </div>
+        <div>
             <a href="https://www.instagram.com/rossdwhitehouse/">Check Instagram</a>
         </div>
         ✌️
