@@ -30,6 +30,20 @@ h2 {
 	margin-bottom: 0.8rem;
 }
 
+.hero blockquote {
+	border-left: white 4px solid;
+	padding-left: 20px;
+	margin-top: 6rem;
+}
+
+.hero blockquote p {
+	margin-bottom: 5rem;
+}
+
+.hero blockquote em {
+	font-style: italic;
+}
+
 section {
 	padding: 8rem 1rem 12rem;
 }
