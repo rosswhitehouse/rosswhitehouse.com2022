@@ -6,14 +6,14 @@ h2 {
 .hero {
 	background: var(--background-fallback);
 	background-image: var(--gradient);
-	padding-top: 200px;
-	padding-bottom: 200px;
+	padding: 12rem 0;
 	color: white;
 	font-size: 2.5rem;
 }
 
 .hero h1 {
 	font-size: 6rem;
+	margin-bottom: 5rem;
 }
 
 @media (max-width: 650px) {
